@@ -1,0 +1,19 @@
+.navbar {
+    background-color: #b9e9f9;
+}
+
+.navbar ul {
+    margin: 0px;
+    list-style-type: none;
+    display: flex;
+}
+
+.navbar ul li {
+    font-size: 24px;
+    padding: 10px 20px;
+}
+
+.navbar ul li:hover {
+    background-color: #8adaf5;
+    opacity: 0.8;
+}

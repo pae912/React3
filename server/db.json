@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "id": "P001",
+            "name": "iPhone-14",
+            "fiveG": false
+        },
+        {
+            "id": "P002",
+            "name": "Galaxy-22",
+            "fiveG": true
+        }
+    ]
+}
